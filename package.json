@@ -9,10 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~50.0.17",
-    "expo-status-bar": "~1.11.1",
-    "react": "18.2.0",
-    "react-native": "0.73.6"
+    "expo": "^51.0.5",
+    "expo-status-bar": "~1.12.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "0.74.1",
+    "reax": "^0.0.1",
+    "styled-component": "^2.8.0",
+    "styled-components": "^6.1.9"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
